@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "어제처럼"
+date:   2023-03-26 10:49:13 +0900
+categories: 시작
+---
+가끔 만났을 때 반가워서, `사진`이라도 올려 보자
+
+Jekyll offers powerful support for code snippets:
+
+{% highlight ruby %}
+ㅊ
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
