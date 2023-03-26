@@ -9,7 +9,7 @@ categories: 시작
 Jekyll offers powerful support for code snippets:
 
 {% highlight ruby %}
-ㅊ
+
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
